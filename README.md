@@ -23,8 +23,7 @@ Key methods for data manipulation include:
 - Segmented analysis
 
 ## Deliverables:
-Published databricks notebook containining:
-- 
+Published databricks notebook
 
 ## This analysis can inform Ubisoft on:
 - Popular video game genres and trends
